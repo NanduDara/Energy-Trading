@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-//import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
-//import web3 from './web3';
+import web3 from './web3';
 import contract from './contract';
 
 class App extends Component {
